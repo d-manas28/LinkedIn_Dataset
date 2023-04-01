@@ -1,0 +1,517 @@
+{
+  "lastName": "Dubey",
+  "student": false,
+  "geoCountryUrn": "urn:li:fs_geo:102713980",
+  "geoLocationBackfilled": false,
+  "entityUrn": "urn:li:fs_profile:ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA",
+  "headline": "Building Tech| Training and Placement Cell Coordinator @IIT Patna| MTech AI @IIT Patna| ML, Software, & Web Developer| Experienced in Python Development & C++",
+  "summary": "1. Believing in oneself and finding solutions is something that I tend to follow in my personal as well as professional life. \n2. Fan, Follower and Practitioner of Problem Solving.\n3. I have got skills in Programming with C, C++, C++11 (STL and advance libraries) and Python, Data structure and algorithm, Competitive Programming with C++11 and C++14, Database Management System as SQL and MongoDB, Operating System as Linux, Machine Learning with Python3, Data Science with Python3 Libraries using Tensorflow, Backend Development, DjangoREST framework, Frontend Development, Materialize.css, MVC architecture development\n4. Acquired theoretical knowledge of formal learnings of Computer Science and Passed Graduate Aptitude Test In Engineering 2022 in CS/IT with 95.6 Percentile and AIR 3225.",
+  "industryName": "Education Administration Programs",
+  "address": "C.V. Raman Hostel, IIT Patna, Bihta, Bihar, 801103",
+  "locationName": "India",
+  "geoCountryName": "India",
+  "elt": false,
+  "profilePictureOriginalImage": {
+    "com.linkedin.common.VectorImage": {
+      "artifacts": [
+        {
+          "width": 675,
+          "fileIdentifyingUrlPathSegment": "900_1200/0/1679423622394?m=AQJ8jrRr4wbw6AAAAYc9RlVfZ6MMwRE8k7wFSHFTr1VEROQ_eei1Exu_OQ&e=1680446632&v=beta&t=L3yd1fEST8nZInyy8uW84s3CLfeTP46-NQk6joBO2hU",
+          "expiresAt": 1680446632000,
+          "height": 900
+        },
+        {
+          "width": 337,
+          "fileIdentifyingUrlPathSegment": "450_600/0/1679423622394?m=AQIQ8kQKQ6119AAAAYc9RlVfW8T1DI_7uJrzSsiJ0GO1Dw02LY-znGRLxg&e=1680446632&v=beta&t=WsqBLXObHJ9UZ-gCum_ZzG8TFJEh_queZF-NOA2Fu-A",
+          "expiresAt": 1680446632000,
+          "height": 450
+        }
+      ],
+      "rootUrl": "https://www.linkedin.com/dms/D5604AQHz2fJ6GNMCfg/profile-originalphoto-shrink_"
+    }
+  },
+  "birthDate": {
+    "month": 3,
+    "day": 28
+  },
+  "industryUrn": "urn:li:fs_industry:69",
+  "firstName": "Manas",
+  "profilePicture": {
+    "displayImage": "urn:li:digitalmediaAsset:D5603AQFrFHxCHoJVPQ",
+    "originalImage": "urn:li:digitalmediaAsset:D5604AQHz2fJ6GNMCfg",
+    "photoFilterEditInfo": {
+      "bottomLeft": {
+        "x": 0.11830999701123801,
+        "y": 0.609659984598693
+      },
+      "saturation": 0.0,
+      "brightness": 0.0,
+      "vignette": 0.0,
+      "photoFilterType": "EDGE",
+      "bottomRight": {
+        "x": 0.8988099772941496,
+        "y": 0.6040799847396556
+      },
+      "topLeft": {
+        "x": 0.11086999719918822,
+        "y": 0.024289999386382988
+      },
+      "contrast": 0.0,
+      "topRight": {
+        "x": 0.8913699774820998,
+        "y": 0.018699999527598266
+      }
+    }
+  },
+  "geoLocation": {
+    "geoUrn": "urn:li:fs_geo:111686942"
+  },
+  "geoLocationName": "Patna, Bihar",
+  "location": {
+    "basicLocation": {
+      "countryCode": "in"
+    }
+  },
+  "backgroundPicture": {
+    "displayImage": "urn:li:digitalmediaAsset:C4D16AQG4_QWmM8Tprg",
+    "originalImage": "urn:li:digitalmediaAsset:C4D04AQFFvq0cmic1bg",
+    "photoFilterEditInfo": {
+      "bottomLeft": {
+        "x": 0.0,
+        "y": 0.7138069705093834
+      },
+      "saturation": 0.0,
+      "brightness": 0.0,
+      "vignette": 0.0,
+      "photoFilterType": "ORIGINAL",
+      "bottomRight": {
+        "x": 1.0,
+        "y": 0.7138069705093834
+      },
+      "topLeft": {
+        "x": 0.0,
+        "y": 0.27010723860589814
+      },
+      "contrast": 0.0,
+      "topRight": {
+        "x": 1.0,
+        "y": 0.27010723860589814
+      }
+    }
+  },
+  "backgroundPictureOriginalImage": {
+    "com.linkedin.common.VectorImage": {
+      "artifacts": [
+        {
+          "width": 702,
+          "fileIdentifyingUrlPathSegment": "396_1584/0/1655450049650?m=AQJcJw6Vsfer3gAAAYc9RlVgh2J0WmYCvnERZ8jo_plfanlZ3Z6xL74d7g&e=1680446632&v=beta&t=83EWqja590HKURqULY9RzsLDkyukNR4UwnoQ4DpDHCg",
+          "expiresAt": 1680446632000,
+          "height": 396
+        },
+        {
+          "width": 354,
+          "fileIdentifyingUrlPathSegment": "200_800/0/1655450049650?m=AQKdeTF5AKv1xQAAAYc9RlVgwwtk9ybBMUO9lUePFZwyiGImSaJ3KIj_8Q&e=1680446632&v=beta&t=q8nkfzWryXcstObcxQhn7RmLDKbDLpR41KCzUHghCR0",
+          "expiresAt": 1680446632000,
+          "height": 200
+        }
+      ],
+      "rootUrl": "https://www.linkedin.com/dms/C4D04AQFFvq0cmic1bg/profile-originalbackgroundimage-shrink_"
+    }
+  },
+  "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQFrFHxCHoJVPQ/profile-displayphoto-shrink_",
+  "profile_id": "ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA",
+  "experience": [
+    {
+      "locationName": "Patna, Bihar, India",
+      "entityUrn": "urn:li:fs_position:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,2120786927)",
+      "geoLocationName": "Patna, Bihar, India",
+      "geoUrn": "urn:li:fs_geo:111686942",
+      "companyName": "IIT Patna",
+      "timePeriod": {
+        "startDate": {
+          "month": 2,
+          "year": 2023
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 501,
+          "end": 1000
+        },
+        "industries": [
+          "Higher Education"
+        ]
+      },
+      "title": "Training and Placement Cell Coordinator",
+      "region": "urn:li:fs_region:(in,0)",
+      "companyUrn": "urn:li:fs_miniCompany:87401504",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQH9V_nf8wLREw/company-logo_"
+    },
+    {
+      "locationName": "Patna, Bihar, India",
+      "entityUrn": "urn:li:fs_position:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,2087133020)",
+      "geoLocationName": "Patna, Bihar, India",
+      "geoUrn": "urn:li:fs_geo:111686942",
+      "companyName": "IIT Patna Vishlesan I-Hub Foundation",
+      "timePeriod": {
+        "startDate": {
+          "month": 8,
+          "year": 2022
+        }
+      },
+      "description": "I am working on a project under Technical Incubation Hub(TIH) at the Indian Institute of Technology(IIT) Patna to develop multilingual speech-to-text translation of Indian languages.",
+      "company": {
+        "employeeCountRange": {
+          "start": 2,
+          "end": 10
+        },
+        "industries": [
+          "Research"
+        ]
+      },
+      "title": "Chanakya PG Fellow",
+      "region": "urn:li:fs_region:(in,0)",
+      "companyUrn": "urn:li:fs_miniCompany:81527624",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEM38iuQh3lXg/company-logo_"
+    },
+    {
+      "locationName": "New Delhi, Delhi, India",
+      "entityUrn": "urn:li:fs_position:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,1985634600)",
+      "geoLocationName": "New Delhi, Delhi, India",
+      "geoUrn": "urn:li:fs_geo:115918471",
+      "companyName": "Hero Vired",
+      "timePeriod": {
+        "endDate": {
+          "month": 7,
+          "year": 2022
+        },
+        "startDate": {
+          "month": 6,
+          "year": 2022
+        }
+      },
+      "description": "I worked as an intern;\n1. Handling the backend website content. \n2. Managing an open source learning management system to research, add and modify packages and plugins required.",
+      "company": {
+        "employeeCountRange": {
+          "start": 201,
+          "end": 500
+        },
+        "industries": [
+          "E-Learning"
+        ]
+      },
+      "title": "SDE Summer Intern",
+      "region": "urn:li:fs_region:(in,0)",
+      "companyUrn": "urn:li:fs_miniCompany:71603598",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGqP-bjG0eYGA/company-logo_"
+    },
+    {
+      "locationName": "Chandigarh, India",
+      "entityUrn": "urn:li:fs_position:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,1631229436)",
+      "geoLocationName": "Chandigarh, India",
+      "geoUrn": "urn:li:fs_geo:104458930",
+      "companyName": "XLPAT",
+      "timePeriod": {
+        "endDate": {
+          "month": 6,
+          "year": 2021
+        },
+        "startDate": {
+          "month": 6,
+          "year": 2020
+        }
+      },
+      "description": "\u201cProduct based company working on Intellectual Property domain\u201d, Worked on several related project;\n\nNoise Filtration: Classification of patent into relevant and non-relevant using classification models - Universal Sentence Encoding for Embeddings, KMeans for classification\n\nProblem Extraction: BERT based model is fed with Keywords referring to the problems, extracted using Python Programming\n\nLandscaper: Clustering the Keywords and Keyphrases after extracting them from Patent Attributes, tech stack includes distilbert-base Model, LDA, LSA, Patent BERT\n\nXLScout: Created Djangorest framework backend APIs for this XLPAT Product to ideate, landscape and innovate with built-in solutions for intellectual queries.",
+      "company": {
+        "employeeCountRange": {
+          "start": 51,
+          "end": 200
+        },
+        "industries": [
+          "Information Services"
+        ]
+      },
+      "title": "Software Product Developer - Data Science and Machine Learning",
+      "region": "urn:li:fs_region:(in,0)",
+      "companyUrn": "urn:li:fs_miniCompany:3064999",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGmRL0AjV7Pig/company-logo_"
+    },
+    {
+      "courses": [
+        "urn:li:fs_course:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,338543318)"
+      ],
+      "locationName": "Coding Blocks",
+      "entityUrn": "urn:li:fs_position:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,1563327148)",
+      "geoLocationName": "Coding Blocks",
+      "companyName": "Nagarro",
+      "timePeriod": {
+        "endDate": {
+          "month": 5,
+          "year": 2020
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2020
+        }
+      },
+      "description": "1. Learnt the basics of programming in C++.\n2. Worked on several fundamental concepts namely, Data Types, Functions, Pointers.\n3. Trained over Data Structures and competitive coding approaches.\n4. Worked on Object-Oriented Programming, Following which worked on a project based on object-oriented programming called Court Case Management System.\n5. Learnt about the Template/Generic Library, following which built a project based on STL called Process Management System.",
+      "company": {
+        "employeeCountRange": {
+          "start": 10001
+        },
+        "industries": [
+          "Information Technology and Services"
+        ]
+      },
+      "title": "Trainee",
+      "companyUrn": "urn:li:fs_miniCompany:11902",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFTpRtMFMb_ug/company-logo_"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Corporate Communications"
+    },
+    {
+      "name": "Full-Stack Development"
+    },
+    {
+      "name": "React.js"
+    },
+    {
+      "name": "Front-End Development"
+    },
+    {
+      "name": "Natural Language Processing (NLP)"
+    },
+    {
+      "name": "Analytic Problem Solving"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Data Structures"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Algorithms"
+    },
+    {
+      "name": "Web Development"
+    },
+    {
+      "name": "Back-End Web Development"
+    },
+    {
+      "name": "WordPress Design"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "Web Content Writing"
+    },
+    {
+      "name": "Blogging"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "C (Programming Language)"
+    },
+    {
+      "name": "Python (Programming Language)"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Public Speaking"
+    },
+    {
+      "name": "Soft Skills"
+    },
+    {
+      "name": "Leadership"
+    },
+    {
+      "name": "Express.js"
+    },
+    {
+      "name": "Problem Solving"
+    },
+    {
+      "name": "NoSQL"
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)"
+    },
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Machine Learning Algorithms"
+    },
+    {
+      "name": "Supervised Learning"
+    },
+    {
+      "name": "Data Science"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "Pandas"
+    },
+    {
+      "name": "Scikit-Learn"
+    },
+    {
+      "name": "NumPy"
+    },
+    {
+      "name": "Django REST Framework"
+    },
+    {
+      "name": "Database Testing"
+    },
+    {
+      "name": "Backend Development"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "API Development"
+    },
+    {
+      "name": "Web Services API"
+    },
+    {
+      "name": "API Testing"
+    },
+    {
+      "name": "Postman API"
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,814560588)",
+      "school": {
+        "objectUrn": "urn:li:school:38840",
+        "entityUrn": "urn:li:fs_miniSchool:38840",
+        "active": true,
+        "schoolName": "Indian Institute of Technology, Patna",
+        "trackingId": "bLmuAPECSciNd6i2rny0ug==",
+        "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQGH4kZC3mionA/company-logo_"
+      },
+      "grade": "8.11",
+      "timePeriod": {
+        "endDate": {
+          "month": 6,
+          "year": 2024
+        },
+        "startDate": {
+          "month": 7,
+          "year": 2022
+        }
+      },
+      "description": "Masters of Technology in Artificial Intelligence under the department of Computer Science and Engineering",
+      "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+      "degreeName": "Master of Technology - MTech",
+      "schoolName": "Indian Institute of Technology, Patna",
+      "fieldOfStudy": "Artificial Intelligence",
+      "degreeUrn": "urn:li:fs_degree:584",
+      "schoolUrn": "urn:li:fs_miniSchool:38840"
+    },
+    {
+      "courses": [
+        "urn:li:fs_course:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,189029137)"
+      ],
+      "projects": [
+        "urn:li:fs_project:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,2020363923)",
+        "urn:li:fs_project:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,2020602690)",
+        "urn:li:fs_project:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,2020737784)"
+      ],
+      "degreeName": "Bachelor of Technology - BTech",
+      "schoolUrn": "urn:li:fs_miniSchool:199009",
+      "entityUrn": "urn:li:fs_education:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,550491429)",
+      "school": {
+        "objectUrn": "urn:li:school:199009",
+        "entityUrn": "urn:li:fs_miniSchool:199009",
+        "active": true,
+        "schoolName": "Lovely Professional University",
+        "trackingId": "Kz+zXmaJQTKnYLWW4qDY4Q==",
+        "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQFbJbgVOfBgxA/company-logo_"
+      },
+      "activities": "Major in Mean Stack Development",
+      "grade": "8.80",
+      "timePeriod": {
+        "endDate": {
+          "year": 2021
+        },
+        "startDate": {
+          "year": 2017
+        }
+      },
+      "testScores": [
+        "urn:li:fs_testScore:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,1698733756)",
+        "urn:li:fs_testScore:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,1699421583)"
+      ],
+      "schoolName": "Lovely Professional University",
+      "fieldOfStudy": "Computer Science"
+    },
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAACiSoQsBvFl_2-c0uipGQmAugZCOtwUB9lA,551277050)",
+      "school": {
+        "objectUrn": "urn:li:school:20331",
+        "entityUrn": "urn:li:fs_miniSchool:20331",
+        "active": true,
+        "schoolName": "Kendriya Vidyalaya",
+        "trackingId": "2n3t482dRJSdwlxL8+vVCw==",
+        "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFiB3Otc6s1Mw/company-logo_"
+      },
+      "activities": "Cricket, Volleyball, Musical Band, Society of Management and welfare of CCA",
+      "grade": "69.8",
+      "timePeriod": {
+        "endDate": {
+          "year": 2017
+        },
+        "startDate": {
+          "year": 2015
+        }
+      },
+      "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100761",
+      "degreeName": "Higher Secondary School",
+      "schoolName": "Kendriya Vidyalaya",
+      "fieldOfStudy": "Mathematics and Computer Science",
+      "schoolUrn": "urn:li:fs_miniSchool:20331"
+    }
+  ]
+}
